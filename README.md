@@ -32,3 +32,5 @@ How does it work?
 1) Client initiates a WebSocket handshake using HTTP.
 2) If the server supports it, it upgrades the connection to a WebSocket.
 3) Now, they can send messages back and forth freely.
+
+Article on how to use binance WebSocket API: https://academy.binance.com/en/articles/how-to-use-binance-websocket-api#Key-Takeaways
